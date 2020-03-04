@@ -11,11 +11,11 @@ nombre - rol
 ## Planos
 
 ## Eléctricos o electrónicos
-Esquemático y PCB - Diseñador
-![esquematico](url)
+/home/estudiante2020/Descargas/Esquemático.png
 
 ## Construcción
-modelo 3D y planos - Diseñador
+/home/estudiante2020/Descargas/Arduino.png
+/home/estudiante2020/Descargas/Pcb.png
 
 ## Código fuente 
 [código de arduino](url del archivo .ino) - programador
