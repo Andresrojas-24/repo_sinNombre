@@ -12,7 +12,7 @@ nombre - rol
 
 ## Eléctricos o electrónicos
 Esquemático y PCB - Diseñador
-![esquematico](url)
+![esquematico](/home/estudiante2020/Descargas/Esquemático.png)
 
 ## Construcción
 modelo 3D y planos - Diseñador
