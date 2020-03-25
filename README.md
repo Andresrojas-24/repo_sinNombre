@@ -18,7 +18,7 @@ Esquemático y PCB - Diseñador
 modelo 3D y planos - Diseñador
 
 ## Código fuente 
-![Arduino](https://raw.githubusercontent.com/Andresrojas-24/repo_sinNombre/master/Arduino.png .ino) - programador
+![Arduino](https://raw.githubusercontent.com/Andresrojas-24/repo_sinNombre/master/Arduino.png) - programador
 [código de app](url del archivo .aia) - programador
 [código de fritzing](url del archivo .fzz) - diseñador
 [código de FreeCAD](url del archivo .freecad) - diseñador
