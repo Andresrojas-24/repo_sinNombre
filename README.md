@@ -12,7 +12,7 @@ nombre - rol
 
 ## Eléctricos o electrónicos
 Esquemático y PCB - Diseñador
-![Esquematico](url)
+![Esquematico](https://raw.githubusercontent.com/Andresrojas-24/repo_sinNombre/master/Esquem%C3%A1tico.png)
 
 ## Construcción
 modelo 3D y planos - Diseñador
