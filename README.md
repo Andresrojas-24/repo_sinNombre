@@ -1,7 +1,7 @@
 # repo_sinNombre
 
 ## Integrantes
-nombre - rol
+Sergio Jose Muñoz - Lider
 
 ## Título del proyecto
 
